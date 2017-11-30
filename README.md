@@ -35,8 +35,8 @@ I have manually tunned the PID parameters:
 
 The final value of my parameters are: 
 
-**P = 0.1 
-I = 0.0
-D = 3.0**
+**- P = 0.1 
+- I = 0.0
+- D = 3.0**
 
 The results could have been improved by implementing Parameter Optimization algorithms such a Twiddle.
